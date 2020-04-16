@@ -1,6 +1,11 @@
-Adding Batocera Beta and Stable builds for RPI4 to PINN OS list
-Fixing nominal partition size to 3GB (3096) as Batocera will not be able to update otherwise
-Fixing partition name to "BATOCERA" instead of "Recalbox"
-Change default password to mirror Batocera's default password
-Fixing uncompressed tar.xz size value to 1602
-Includes list of official PINN repos in repo list
+Source: https://github.com/matthuisman/pinn-os
+This is only to add Batocera Beta and Stable builds for RPI4 to PINN OS list and fixing some things that were outdated in the source
+
+partitions.json:
+
+* Fixing nominal partition size to 3GB (3096) as Batocera will not be able to update otherwise
+* Fixing partition name to "BATOCERA" instead of "Recalbox"
+* Change default password to mirror Batocera's default password
+* Fixing uncompressed tar.xz size value to 1602
+* Includes list of official PINN repos in repo list for convenience sake
+
