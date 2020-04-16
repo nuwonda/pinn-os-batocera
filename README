@@ -7,5 +7,8 @@ partitions.json:
 * Fixing partition name to "BATOCERA" instead of "Recalbox"
 * Change default password to mirror Batocera's default password
 * Fixing uncompressed tar.xz size value to 1602
+* Fixed download size to match current version 5.26
+* Added RPI4 Models support info and hex revisions to jsons
+* Updated oerl outdated url to new batocero.org url
 * Includes list of official PINN repos in repo list for convenience sake
 
