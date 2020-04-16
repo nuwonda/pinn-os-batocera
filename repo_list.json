@@ -23,7 +23,7 @@
 		},
     {
 			"name" : "nuwonda",
-			"url"  : "https://isshoni.org/pinn/os/os_list_v3.json"
+			"url"  : "http://raw.githubusercontent.com/nuwonda/pinn-os-batocera/master/os_list_bato.json"
 		}
 	]
 }
