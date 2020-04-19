@@ -2,7 +2,7 @@
     "name": "batocera_RPi4",
     "version": "5.26",
     "release_date": "2020-04-18",
-    "description": "batocera.linux, the open source retro gaming console",
+    "description": "batocera (beta)",
     "url": "https://batocera.org/",
     "group": "Games",
     "username": "root",
