@@ -2,7 +2,7 @@
     "os_list": [       
         {
             "description": "batocera (beta), the open source retro gaming console",
-            "download_size": 822813660,
+            "download_size": 851728448,
             "group": "Games",
             "icon": "http://raw.githubusercontent.com/nuwonda/pinn-os-batocera/master/batocera_RPi4.png",
             "marketing_info": "http://raw.githubusercontent.com/nuwonda/pinn-os-batocera/master/marketing.tar",
@@ -12,11 +12,10 @@
             "partition_setup": "http://raw.githubusercontent.com/nuwonda/pinn-os-batocera/master/partition_setup.sh",
             "partitions_info": "http://raw.githubusercontent.com/nuwonda/pinn-os-batocera/master/partitions.json",
             "password": "linux",
-            "release_date": "2020-04-15",
+            "release_date": "2020-04-18",
             "supported_hex_revisions": "3111,3112",
             "supported_models": [
-                "Pi 4 Model B",
-                "Pi 4 Model B Rev 1.1"
+                "Pi 4 Model B"
             ],
             "supports_backup": true,
             "supports_usb_boot": true,
@@ -30,7 +29,7 @@
         },
          {
             "description": "batocera (stable), the open source retro gaming console",
-            "download_size": 822813660,
+            "download_size": 851728448,
             "group": "Games",
             "icon": "http://raw.githubusercontent.com/nuwonda/pinn-os-batocera/master/batocera_RPi4.png",
             "marketing_info": "http://raw.githubusercontent.com/nuwonda/pinn-os-batocera/master/marketing.tar",
@@ -43,8 +42,7 @@
             "release_date": "2020-04-15",
             "supported_hex_revisions": "3111,3112",
             "supported_models": [
-                "Pi 4 Model B",
-                "Pi 4 Model B Rev 1.1"
+                "Pi 4 Model B"
             ],
             "supports_backup": true,
             "supports_usb_boot": true,
